@@ -11,14 +11,14 @@ const stats = [
     color: "#3B82F6",
   },
   {
-    value: "2+",
+    value: "6+",
     label: "Experience",
-    description: "Years",
+    description: "Months",
     icon: Briefcase,
     color: "#8B5CF6",
   },
   {
-    value: "5+",
+    value: "3+",
     label: "Certifications",
     description: "Earned",
     icon: Award,

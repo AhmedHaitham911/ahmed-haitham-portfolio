@@ -111,12 +111,6 @@ export const skills: Skill[] = [
     color: "#F7931E",
   },
   {
-    name: "TensorFlow",
-    category: "AI & Machine Learning",
-    icon: FaBrain,
-    color: "#FF6F00",
-  },
-  {
     name: "PyTorch",
     category: "AI & Machine Learning",
     icon: BrainCircuit,
@@ -188,12 +182,7 @@ export const skills: Skill[] = [
     icon: Layers3,
     color: "#FF7C00",
   },
-  {
-    name: "Transformers",
-    category: "AI & Machine Learning",
-    icon: BrainCircuit,
-    color: "#F59E0B",
-  },
+
 
   // ==========================================
   // DATA ENGINEERING
@@ -223,18 +212,7 @@ export const skills: Skill[] = [
     icon: Boxes,
     color: "#8B5CF6",
   },
-  {
-    name: "Apache Airflow",
-    category: "Data Engineering",
-    icon: Workflow,
-    color: "#017CEE",
-  },
-  {
-    name: "PostgreSQL",
-    category: "Data Engineering",
-    icon: FaDatabase,
-    color: "#4169E1",
-  },
+
 
   // ==========================================
   // FRONT-END DEVELOPMENT

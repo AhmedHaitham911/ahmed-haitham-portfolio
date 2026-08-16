@@ -34,7 +34,7 @@ const HeroContent = () => {
         transition={{ delay: 0.25 }}
         className="mt-6 text-xl font-medium text-muted md:text-2xl"
       >
-        AI Engineer <span className="text-primary">•</span> Data Scientist{" "}
+         <span className="text-primary">•</span> Data Scientist{" "}
         <span className="text-primary">•</span> Front-End Developer
       </motion.h2>
 
