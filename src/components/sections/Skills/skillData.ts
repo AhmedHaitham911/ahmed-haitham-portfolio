@@ -9,9 +9,7 @@ import {
   FaGitAlt,
   FaGithub,
   FaDocker,
-  FaDatabase,
   FaChartBar,
-  FaBrain,
   FaRobot,
 } from "react-icons/fa";
 
